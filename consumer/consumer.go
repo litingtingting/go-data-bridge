@@ -7,8 +7,8 @@ import (
 	"github.com/IBM/sarama"
 	"go.uber.org/zap"
 
-	"yourmodule/config"
-	"yourmodule/batch"
+	"go-data-bridge/config"
+	"go-data-bridge/batch"
 )
 
 type ConsumerGroupHandler struct {

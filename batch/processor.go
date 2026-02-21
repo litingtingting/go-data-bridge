@@ -7,8 +7,8 @@ import (
 
 	"go.uber.org/zap"
 
-	"yourmodule/config"
-	"yourmodule/storage"
+	"go-data-bridge/config"
+	"go-data-bridge/storage"
 )
 
 type Message struct {

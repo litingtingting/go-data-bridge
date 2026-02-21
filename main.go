@@ -8,10 +8,10 @@ import (
 	"syscall"
 	"time"
 
-	"yourmodule/config"
-	"yourmodule/consumer"
-	"yourmodule/storage"
-	"yourmodule/batch"
+	"go-data-bridge/config"
+	"go-data-bridge/consumer"
+	"go-data-bridge/storage"
+	"go-data-bridge/batch"
 	"go.uber.org/zap"
 )
 

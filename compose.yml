@@ -28,3 +28,5 @@ services:
       nofile:
         soft: 262144
         hard: 262144
+    volumes:
+      - ./clickhouse_data:/var/lib/clickhouse

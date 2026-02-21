@@ -8,7 +8,7 @@ import (
 	"github.com/ClickHouse/clickhouse-go/v2/lib/driver"
 	"go.uber.org/zap"
 
-	"yourmodule/config"
+	"go-data-bridge/config"
 )
 
 type ClickHouseClient struct {
