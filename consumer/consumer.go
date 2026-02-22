@@ -2,7 +2,6 @@ package consumer
 
 import (
 	"context"
-	"time"
 
 	"github.com/IBM/sarama"
 	"go.uber.org/zap"
